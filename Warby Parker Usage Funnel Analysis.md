@@ -122,6 +122,7 @@ Output:
 | 1000        | 750         | 2992.0      | 495       | 7.5             | 6.6                 |
 
 3 pair vs. 5 pair trials conversions:
+
 | 3 pair conversion rate |
 |------------------------|
 | 0.53                   |
