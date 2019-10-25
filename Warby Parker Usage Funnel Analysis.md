@@ -116,7 +116,8 @@ SUM(is_purchase) AS 'purchases',
 FROM funnel;
 ```
 
-Output: 
+Output:
+
 | total users | home trials | pairs tried | purchases | Quiz to Trial % | Trial to Purchase % |
 |-------------|-------------|-------------|-----------|-----------------|---------------------|
 | 1000        | 750         | 2992.0      | 495       | 7.5             | 6.6                 |
